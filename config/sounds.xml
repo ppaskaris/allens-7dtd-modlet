@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configs>
 	<!-- Remove the goofy sounds the Auger/Chainsaw (and every gun) make against blocks -->
-	<removeattribute xpath="/Sounds/SoundDataNode[@name='bullethitcloth']/AudioClip[@ClipName='Sounds/ImpactSurface/bullethitcloth1']/@ClipName"></removeattribute>
+	<!-- <removeattribute xpath="/Sounds/SoundDataNode[@name='bullethitcloth']/AudioClip[@ClipName='Sounds/ImpactSurface/bullethitcloth1']/@ClipName"></removeattribute>
 	<removeattribute xpath="/Sounds/SoundDataNode[@name='bullethitcloth']/AudioClip[@ClipName='Sounds/ImpactSurface/bullethitcloth2']/@ClipName"></removeattribute>
 	<removeattribute xpath="/Sounds/SoundDataNode[@name='bullethitcloth']/AudioClip[@ClipName='Sounds/ImpactSurface/bullethitcloth3']/@ClipName"></removeattribute>
 	<removeattribute xpath="/Sounds/SoundDataNode[@name='bullethitearth']/AudioClip[@ClipName='Sounds/ImpactSurface/bullethitearth1']/@ClipName"></removeattribute>
@@ -28,5 +28,5 @@
 	<removeattribute xpath="/Sounds/SoundDataNode[@name='bullethitwater']/AudioClip[@ClipName='Sounds/ImpactSurface/bullethitwater3']/@ClipName"></removeattribute>
 	<removeattribute xpath="/Sounds/SoundDataNode[@name='bullethitwood']/AudioClip[@ClipName='Sounds/ImpactSurface/bullethitwood1']/@ClipName"></removeattribute>
 	<removeattribute xpath="/Sounds/SoundDataNode[@name='bullethitwood']/AudioClip[@ClipName='Sounds/ImpactSurface/bullethitwood2']/@ClipName"></removeattribute>
-	<removeattribute xpath="/Sounds/SoundDataNode[@name='bullethitwood']/AudioClip[@ClipName='Sounds/ImpactSurface/bullethitwood3']/@ClipName"></removeattribute>
+	<removeattribute xpath="/Sounds/SoundDataNode[@name='bullethitwood']/AudioClip[@ClipName='Sounds/ImpactSurface/bullethitwood3']/@ClipName"></removeattribute> -->
 </configs>
