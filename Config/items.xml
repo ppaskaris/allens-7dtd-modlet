@@ -5,6 +5,6 @@
   <set xpath="items/item[@name='meleeWpnSpearT3SteelSpear']/effect_group[@name='meleeWpnSpearT3SteelSpear']/passive_effect[@name='EntityDamage' and @operation='base_set']/@value">28</set>
   <set xpath="items/item[starts-with(@name, 'meleeWpnSpear')]/effect_group[@name='Throw']/passive_effect[@name='EntityDamage']/@value">4</set>
   <!-- Auger --> 
-  <set xpath="items/item[@name='meleeToolPickT3Auger']/effect_group[@name='meleeToolPickT3Auger']/passive_effect[@name='BlockDamage' and @operation='base_set']/@value">100</set>
-  <set xpath="items/item[@name='meleeToolAxeT3Chainsaw']/effect_group[@name='meleeToolAxeT3Chainsaw']/passive_effect[@name='BlockDamage' and @operation='base_set']/@value">100</set>
+  <set xpath="items/item[@name='meleeToolPickT3Auger']/effect_group[@name='meleeToolPickT3Auger']/passive_effect[@name='BlockDamage' and @operation='base_set']/@value">50</set>
+  <set xpath="items/item[@name='meleeToolAxeT3Chainsaw']/effect_group[@name='meleeToolAxeT3Chainsaw']/passive_effect[@name='BlockDamage' and @operation='base_set']/@value">50</set>
 </configs>
