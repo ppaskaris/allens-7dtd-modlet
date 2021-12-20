@@ -1,8 +1,8 @@
 <config>
   <!-- Increase the amount of feathers and eggs you find in nests -->
-  <set xpath="/lootcontainers/lootgroup[@name='groupBirdNest']/item[@name='resourceFeather']/@count">4,9</set>
-  <set xpath="/lootcontainers/lootgroup[@name='groupBirdNest']/item[@name='foodEgg']/@prob">0.50</set>
-  <setattribute xpath="/lootcontainers/lootgroup[@name='groupBirdNest']/item[@name='foodEgg']" name="count">2,4</setattribute>
+  <set xpath="/lootcontainers/lootgroup[@name='groupBirdNest02']/item[@name='resourceFeather']/@count">2,8</set>
+  <set xpath="/lootcontainers/lootgroup[@name='groupBirdNest02']/item[@name='foodEgg']/@loot_prob_template">med</set>
+  <setattribute xpath="/lootcontainers/lootgroup[@name='groupBirdNest02']/item[@name='foodEgg']" name="count">1,3</setattribute>
 
   <!-- Add acid to cupboards -->
   <append xpath="/lootcontainers/lootgroup[@name='cupboard']">
