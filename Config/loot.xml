@@ -5,12 +5,12 @@
   <setattribute xpath="/lootcontainers/lootgroup[@name='groupBirdNest02']/item[@name='foodEgg']" name="count">1,3</setattribute>
 
   <!-- Add acid to cupboards -->
-  <append xpath="/lootcontainers/lootgroup[@name='cupboard']">
+  <append xpath="/lootcontainers/lootgroup[@name='groupCupboard02']">
     <item name="resourceAcid" count="1,2" prob="0.05" />
   </append>
 
   <!-- increase number of Eggs in refrigerators -->
-  <set xpath="/lootcontainers/lootgroup[@name='coldfood']/item[@name='foodEgg']/@count">1,12</set>
+  <set xpath="/lootcontainers/lootgroup[@name='groupIngredientsRare']/item[@name='foodEgg']/@count">1,12</set>
 
   <!-- increase number of lockpicks found -->
   <set xpath="/lootcontainers/lootgroup/item[@name='resourceLockPick']/@count">2,8</set>
